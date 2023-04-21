@@ -138,7 +138,7 @@ for (i in x) {
        col = "blue")
   abline(regression[[i]], col = "red")
 }
-results # Printings the graphs
+results # Printings the results
 
 "We hereby certify that
 – We have written the program ourselves except for clearly marked pieces of code
